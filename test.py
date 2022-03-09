@@ -1,3 +1,4 @@
+import hello
 print("test")
 age = 18
 if(age <= 18):
